@@ -1,6 +1,7 @@
-# Expense Tracker (React)
+# Expense Tracker using React
 
-This is a React version of the [vanilla JS Expense Tracker](https://github.com/bradtraversy/vanillawebprojects/tree/master/expense-tracker). It uses functional components with hooks and the context API
+ This is an interesting app idea to learn React.js where I build a complete Expense Tracker using React Hooks & Context API. At the bare minimum, this app should allow users to add expenses, categories them, and show some insights like how much expenses went towards food, education, entertainment, bills, travel, etc.
+ It uses functional components with hooks and the context API.
 
 ## Usage
 ```
